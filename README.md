@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Melody. 
+
+I'm a Product Marketer at GitHub and aspire to empower developers and organizations to build what's next. We are always open to your feedback - drop us a note.
 
 <!--
 **mmileski/mmileski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
